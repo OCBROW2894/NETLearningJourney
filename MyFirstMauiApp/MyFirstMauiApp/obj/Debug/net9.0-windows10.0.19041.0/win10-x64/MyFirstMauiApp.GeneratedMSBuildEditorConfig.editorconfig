@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstMauiApp
-build_property.ProjectDir = e:\obo\Bryian\B2894(28th DEC2023)\.NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\
+build_property.ProjectDir = E:\obo\Bryian\B2894(28th DEC2023)\.NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,31 +22,31 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[e:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/App.xaml]
+[E:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[e:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/AppShell.xaml]
+[E:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[e:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/MainPage.xaml]
+[E:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[e:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/Resources/Styles/Colors.xaml]
+[E:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[e:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/Resources/Styles/Styles.xaml]
+[E:/obo/Bryian/B2894(28th DEC2023)/.NETLearningJourney/MyFirstMauiApp/MyFirstMauiApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyFirstMauiApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
