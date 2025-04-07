@@ -93,6 +93,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-bionic-arm64",
+              "version": "[9.0.3, 9.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-bionic-x64",
+              "version": "[9.0.3, 9.0.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.Android": {
               "privateAssets": "all"
@@ -184,6 +194,16 @@
         },
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -195,14 +215,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.57, 10.0.19041.57]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
+        "android-arm64": {
+          "#import": []
+        },
+        "android-x64": {
+          "#import": []
+        },
+        "iossimulator-x64": {
+          "#import": []
+        },
         "maccatalyst-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {
+          "#import": []
+        },
+        "win10-x64": {
           "#import": []
         }
       }
