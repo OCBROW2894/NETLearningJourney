@@ -29,7 +29,7 @@
     <AppXManifest Include="E:\obo\Bryian\B2894%2828th DEC2023%29\NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-07T11:45:06.731</Modified>
+      <Modified>2025-04-07T12:42:17.237</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\obo\Bryian\B2894%2828th DEC2023%29\NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyFirstMauiApp.dll">
       <PackagePath>MyFirstMauiApp.dll</PackagePath>
-      <Modified>2025-04-07T11:45:03.906</Modified>
+      <Modified>2025-04-07T12:42:16.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\obo\Bryian\B2894%2828th DEC2023%29\NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MyFirstMauiApp.exe</PackagePath>
-      <Modified>2025-04-07T11:45:03.931</Modified>
+      <Modified>2025-04-07T12:42:16.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\obo\Bryian\B2894%2828th DEC2023%29\NETLearningJourney\MyFirstMauiApp\MyFirstMauiApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
