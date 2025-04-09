@@ -4,6 +4,11 @@
              x:Class="PhoneWord.MainPage">
 
     <VerticalStackLayout Spacing="15" Padding="20">
+        <Label Text="Enter a PhoneWord!"
+               FontSize="20"/>
+
+        <Entry x:Name="PhoneNumberText"
+               Text="1-555-NETMAUI"/>
         
     </VerticalStackLayout>
     
