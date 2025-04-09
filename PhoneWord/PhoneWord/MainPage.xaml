@@ -9,7 +9,16 @@
 
         <Entry x:Name="PhoneNumberText"
                Text="1-555-NETMAUI"/>
+
+        <Button x:Name = "TranslateButton"
+                Text = "Translate"
+                Clicked = "OnTranslate"/>
         
+        <Button x:Name = "CallButton"
+                Text = "Call"
+                IsEnabled = "False"
+                Clicked = "OnCall"/>
+
     </VerticalStackLayout>
     
 </ContentPage>
