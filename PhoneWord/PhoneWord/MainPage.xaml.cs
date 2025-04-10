@@ -27,6 +27,8 @@ namespace PhoneWord
                 CallButton.IsEnabled = false;
                 CallButton.Text = "Call";
             }
+
+            //TODO: Add logic to handle the case when the user enters a number that cannot be translated
         }
     }
 }
