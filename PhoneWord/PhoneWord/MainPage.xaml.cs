@@ -19,11 +19,13 @@ namespace PhoneWord
 
             if (!string.IsNullOrEmpty(translatedNumber))
             {
-                // TODO:
+                CallButton.IsEnabled = true;
+                CallButton.Text = "Call " + translatedNumber;
             }
             else
             {
-                // TODO:
+                CallButton.IsEnabled = false;
+                CallButton.Text = "Call";
             }
         }
     }
