@@ -1,4 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine(true);
-Console.WriteLine(false);
+string firstName;
+
+char userOption;
+
+int gameScore;
+
+decimal particlesPerMillion;
+
+bool processedCustomer;
