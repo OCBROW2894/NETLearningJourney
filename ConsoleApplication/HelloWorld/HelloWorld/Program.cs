@@ -1,16 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 string firstName;
-/*
-char userOption;
-
-int gameScore;
-
-decimal particlesPerMillion;
-
-bool processedCustomer;
-*/
-
 firstName = "Tendo";
-
-Console.Write(firstName);
+Console.WriteLine(firstName);
+firstName = "Nagato";
+Console.WriteLine(firstName);
+firstName = "Isabella";
+Console.WriteLine(firstName);
+firstName = "Yasmin";
+Console.WriteLine(firstName);
