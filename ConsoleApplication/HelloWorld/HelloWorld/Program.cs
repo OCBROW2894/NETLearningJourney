@@ -12,3 +12,5 @@ bool processedCustomer;
 */
 
 firstName = "Tendo";
+
+Console.Write(firstName);
