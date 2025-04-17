@@ -9,3 +9,4 @@ decimal        28-29 digits
 */
 
 Console.WriteLine(0.25F); // float
+Console.WriteLine(0.25); // double
