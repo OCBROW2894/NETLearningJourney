@@ -10,3 +10,4 @@ Console.WriteLine("Generating invoices for Customer \"Consto Corp\"... \n");
 Console.WriteLine("Invoice: 1021\t\tComplete!");
 Console.WriteLine("Invoice: 1022\t\tComplete!");
 Console.WriteLine("\nOutput Directory:\t");
+Console.Write(@"c:\invoices");
