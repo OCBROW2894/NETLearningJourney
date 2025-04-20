@@ -6,3 +6,7 @@ string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\
 
 Console.WriteLine(@$"View English output:
     c:\Exercise\{projectName}\ru-RU\data.txt");
+Console.Write("\n");
+
+Console.Write(@$"{russianMessage}:
+    c:\Exercise\{projectName}\ru-RU\data.txt");
